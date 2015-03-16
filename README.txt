@@ -1,0 +1,1 @@
+The project can be imported into such an IDE as Eclipse. Only the Capsol class is to be run (It is the only one that has a main class). All navigation through the demo begins there. 
